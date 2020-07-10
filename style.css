@@ -1,0 +1,213 @@
+ h1{
+    width: 100%;
+    margin: 10% auto 5% auto;
+    text-align: center;
+
+}
+
+#p1{
+
+    text-align: center;
+}
+
+
+#p2{
+
+    text-align: center;
+
+}
+
+.row{
+
+    margin: 100px 0;
+}
+
+
+body{
+    color: white;
+}
+
+.col-lg-12{
+
+    background-color: #333333;
+}
+
+.header{
+
+    border-bottom: 2px solid white;
+    margin: 10px;
+
+}
+
+#profilepic{
+
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+
+.profilepicture{
+
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+
+}
+
+.messageAndTime{
+
+    margin: 10px 0px;
+}
+
+
+#DateTime{
+
+    font-size: 10px;
+    text-align: end;
+}
+
+#personName{
+
+    font-size: 20px;
+    text-align: left;
+}
+
+#message{
+
+    font-size: 15px;
+
+}
+
+#person{
+
+    border-bottom: 2px solid black;
+    border-right: none;
+}
+
+.col-lg-8{
+
+    background-color: #333333;
+    padding: 20px;
+
+}
+
+.page{
+
+    margin: 10px;
+}
+
+.name{
+
+    margin: 10px;
+
+}
+
+#chat_dashboard{
+
+    background-color: #CFCFCF;
+    width: 100%;
+    margin: 0 auto;
+    height: auto;
+
+}
+
+#chatmessage{
+    width: 80%;
+    height: 40px;
+    border: 2px solid black;
+    margin: 0 30px;
+}
+
+#send{
+
+    padding: 4px 14px;
+    border: 2px solid black; 
+    background-color: white;
+
+}
+
+#png{
+
+    width: 20px;
+    border-right: none;
+
+}
+
+#sendmessage{
+
+    width:100%;
+    padding: 10px;
+    height: auto;
+
+}
+
+#chat_messages{
+
+    width: 100%;
+    color: black;
+    margin:4px, 4px; 
+    padding:4px;  
+    height: 400px;  
+    overflow-x: auto; 
+    overflow-y: auto; 
+
+}
+
+
+
+#messagebox{
+
+    background-color: white;
+    width: 100%;
+    height: 550px;
+}
+
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+
+    flex-shrink: none;
+    margin-top: 10px;
+
+}
+
+/* Other Classes for Page Styling */
+
+
+
+nav{
+
+    margin-bottom: 10px;
+}
+
+
+.message_send{
+
+    border: 2px solid black;
+    width: auto;
+    padding: 5px;
+    margin: 0 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius:10px; 
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: none;
+
+}
+
+
+.row{
+
+    margin:10px;
+}
